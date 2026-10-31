@@ -142,6 +142,16 @@ Me chamo Pedro Miguel Dias de Moraes, tenho 20 anos e sou natural do Paraná. Co
  style="padding-left: 10px;"
  src="https://github-stats-extended.vercel.app/api?username=Moraes-dias&rank_icon=percentile&hide_title=true&custom_title=Hub%20Stats&show_icons=true&include_all_commits=true&theme=omni">
 
+
+ 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moraes-dias/Moraes-dias/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moraes-dias/Moraes-dias/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moraes-dias/Moraes-dias/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img 
  align="left"
  height="200"
